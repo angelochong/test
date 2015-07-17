@@ -12,10 +12,11 @@ import com.chong.game.util.NetUtil;
 import com.chong.game.vo.RequestVo;
 
 public class GameScence1Activity extends BaseActivity{
-//test
-	//test
-    //test
-    //test
+    //test1
+	//test2
+    //test3
+    //test4
+    //test5
 	private View loginButton;
 	private View registerButton;
 	private View usersButton;
