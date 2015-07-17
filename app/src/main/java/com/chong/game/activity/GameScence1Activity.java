@@ -49,6 +49,11 @@ public class GameScence1Activity extends BaseActivity{
     //this is for testiing stash
     //this is for testiing stash
     //this is for testiing stash
+    //this is for testiing stash2
+    //this is for testiing stash2
+    //this is for testiing stash2
+    //this is for testiing stash2
+    //on develop test20
 	private View loginButton;
 	private View registerButton;
 	private View usersButton;
