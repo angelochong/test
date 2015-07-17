@@ -23,6 +23,7 @@ public class GameScence1Activity extends BaseActivity{
     //test9
     //test10
     //on develop4 test1
+    //on develop4 test2
 	private View loginButton;
 	private View registerButton;
 	private View usersButton;
