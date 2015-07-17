@@ -12,7 +12,7 @@ import com.chong.game.util.NetUtil;
 import com.chong.game.vo.RequestVo;
 
 public class GameScence1Activity extends BaseActivity{
-
+//test
 	private View loginButton;
 	private View registerButton;
 	private View usersButton;
