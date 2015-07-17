@@ -13,6 +13,7 @@ import com.chong.game.vo.RequestVo;
 
 public class GameScence1Activity extends BaseActivity{
 //test
+	//test
 	private View loginButton;
 	private View registerButton;
 	private View usersButton;
