@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="btn_str_cancel">取消</string>
+    <string name="btn_str_ok">确定</string>
+    <string name="app_name">游戏</string>
+    <string name="wait_plase">请稍候···</string>
+    <string name="load_data">下拉刷新</string>
+    <string name="data_time">上次更新时间:</string>
+    <string name="data_wrong">数据异常</string>
+    <string name="service_wrong">服务器异常</string>
+    <string name="net_link_wrong">网络连接异常</string>
+    <string name="no_net">没有网络</string>
+</resources>

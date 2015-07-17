@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#fff"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#fff"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/username"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="输入用户名"
+                android:text="chenglong" />
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:hint="输入密码"
+                android:text="123456" />
+
+            <Button
+                android:id="@+id/loginbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="登录" />
+
+            <Button
+                android:id="@+id/registbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="注册" />
+
+            <Button
+                android:id="@+id/getusersbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="获得用户列表" />
+
+            <Button
+                android:id="@+id/updateuserdatabutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="更新用户信息" />
+
+            <Button
+                android:id="@+id/searchbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="搜索用户" />
+
+            <Button
+                android:id="@+id/sendbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="发送消息" />
+
+            <Button
+                android:id="@+id/getmessagebutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="获得消息" />
+
+            <Button
+                android:id="@+id/addfriendbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="加好友" />
+
+            <Button
+                android:id="@+id/getfriendbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="好友列表" />
+
+            <Button
+                android:id="@+id/agreefriendbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="同意加好友" />
+
+            <Button
+                android:id="@+id/publishmoodbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="發表說說" />
+
+            <Button
+                android:id="@+id/getmoodbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="獲取說說" />
+
+            <Button
+                android:id="@+id/writedailybutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="发表日志" />
+
+            <Button
+                android:id="@+id/getdailybutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="获取日志" />
+
+            <Button
+                android:id="@+id/getdynamicbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="获取动态" />
+
+            <Button
+                android:id="@+id/testbutton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="测试" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
