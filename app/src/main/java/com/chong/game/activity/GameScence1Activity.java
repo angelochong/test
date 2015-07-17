@@ -43,6 +43,8 @@ public class GameScence1Activity extends BaseActivity{
     //on develop test17
     //on develop test18
     //on develop test19
+    //on develop5 test1
+    //on develop5 test2
     //this is for testiing stash
     //this is for testiing stash
     //this is for testiing stash
