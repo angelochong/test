@@ -12,5 +12,6 @@ public abstract class DataCallback<T> {
 	public void processError(String error, String message, Context context) {
 		Toast.makeText(context, message, Toast.LENGTH_SHORT).show();
 		DialogUtils.closeProgressDialog();
+		int a=0;
 	}
 }
