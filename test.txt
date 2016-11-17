@@ -6,3 +6,4 @@ test
 test
 conflict begin
 conflict1 edit
+conflict2
