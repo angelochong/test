@@ -7,3 +7,4 @@ test
 conflict begin
 conflict1 edit
 conflict2
+conflict3
