@@ -5,3 +5,4 @@ test
 test
 test
 conflict begin
+conflict1 edit
