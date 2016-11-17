@@ -14,5 +14,6 @@ public abstract class DataCallback<T> {
 		DialogUtils.closeProgressDialog();
 		int a=0;
 		a=2;
+		a=3;
 	}
 }
