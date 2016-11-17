@@ -13,5 +13,6 @@ public abstract class DataCallback<T> {
 		Toast.makeText(context, message, Toast.LENGTH_SHORT).show();
 		DialogUtils.closeProgressDialog();
 		int a=0;
+		a=2;
 	}
 }
